@@ -2,6 +2,8 @@
 
 A responsive personal portfolio with light/dark themes, animated sections, visible profile links, and an editable project system.
 
+Live site: [mbakri-1.github.io](https://mbakri-1.github.io/)
+
 ## Make it yours
 
 - **Profile text and links:** edit `index.html`.
